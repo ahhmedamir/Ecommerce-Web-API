@@ -1,0 +1,547 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\Route\\Route C43\\API\\G01&G02\\E-CommerceG01&G02\\E-Commerce\\E-Commerce.csproj": {}
+  },
+  "projects": {
+    "F:\\Route\\Route C43\\API\\G01&G02\\E-CommerceG01&G02\\Core\\Domain\\Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Route\\Route C43\\API\\G01&G02\\E-CommerceG01&G02\\Core\\Domain\\Domain.csproj",
+        "projectName": "Domain",
+        "projectPath": "F:\\Route\\Route C43\\API\\G01&G02\\E-CommerceG01&G02\\Core\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\Rana Hatem\\.nuget\\packages\\",
+        "outputPath": "F:\\Route\\Route C43\\API\\G01&G02\\E-CommerceG01&G02\\Core\\Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Rana Hatem\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.15, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\Route\\Route C43\\API\\G01&G02\\E-CommerceG01&G02\\Core\\Services.Abstractions\\Services.Abstractions.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Route\\Route C43\\API\\G01&G02\\E-CommerceG01&G02\\Core\\Services.Abstractions\\Services.Abstractions.csproj",
+        "projectName": "Services.Abstractions",
+        "projectPath": "F:\\Route\\Route C43\\API\\G01&G02\\E-CommerceG01&G02\\Core\\Services.Abstractions\\Services.Abstractions.csproj",
+        "packagesPath": "C:\\Users\\Rana Hatem\\.nuget\\packages\\",
+        "outputPath": "F:\\Route\\Route C43\\API\\G01&G02\\E-CommerceG01&G02\\Core\\Services.Abstractions\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Rana Hatem\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "F:\\Route\\Route C43\\API\\G01&G02\\E-CommerceG01&G02\\Shared\\Shared.csproj": {
+                "projectPath": "F:\\Route\\Route C43\\API\\G01&G02\\E-CommerceG01&G02\\Shared\\Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\Route\\Route C43\\API\\G01&G02\\E-CommerceG01&G02\\Core\\Services\\Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Route\\Route C43\\API\\G01&G02\\E-CommerceG01&G02\\Core\\Services\\Services.csproj",
+        "projectName": "Services",
+        "projectPath": "F:\\Route\\Route C43\\API\\G01&G02\\E-CommerceG01&G02\\Core\\Services\\Services.csproj",
+        "packagesPath": "C:\\Users\\Rana Hatem\\.nuget\\packages\\",
+        "outputPath": "F:\\Route\\Route C43\\API\\G01&G02\\E-CommerceG01&G02\\Core\\Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Rana Hatem\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "F:\\Route\\Route C43\\API\\G01&G02\\E-CommerceG01&G02\\Core\\Domain\\Domain.csproj": {
+                "projectPath": "F:\\Route\\Route C43\\API\\G01&G02\\E-CommerceG01&G02\\Core\\Domain\\Domain.csproj"
+              },
+              "F:\\Route\\Route C43\\API\\G01&G02\\E-CommerceG01&G02\\Core\\Services.Abstractions\\Services.Abstractions.csproj": {
+                "projectPath": "F:\\Route\\Route C43\\API\\G01&G02\\E-CommerceG01&G02\\Core\\Services.Abstractions\\Services.Abstractions.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[14.0.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.15, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Stripe.net": {
+              "target": "Package",
+              "version": "[48.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\Route\\Route C43\\API\\G01&G02\\E-CommerceG01&G02\\E-Commerce\\E-Commerce.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Route\\Route C43\\API\\G01&G02\\E-CommerceG01&G02\\E-Commerce\\E-Commerce.csproj",
+        "projectName": "E-Commerce",
+        "projectPath": "F:\\Route\\Route C43\\API\\G01&G02\\E-CommerceG01&G02\\E-Commerce\\E-Commerce.csproj",
+        "packagesPath": "C:\\Users\\Rana Hatem\\.nuget\\packages\\",
+        "outputPath": "F:\\Route\\Route C43\\API\\G01&G02\\E-CommerceG01&G02\\E-Commerce\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Rana Hatem\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "F:\\Route\\Route C43\\API\\G01&G02\\E-CommerceG01&G02\\Core\\Services\\Services.csproj": {
+                "projectPath": "F:\\Route\\Route C43\\API\\G01&G02\\E-CommerceG01&G02\\Core\\Services\\Services.csproj"
+              },
+              "F:\\Route\\Route C43\\API\\G01&G02\\E-CommerceG01&G02\\Infrastructure\\Persentation\\Persentation.csproj": {
+                "projectPath": "F:\\Route\\Route C43\\API\\G01&G02\\E-CommerceG01&G02\\Infrastructure\\Persentation\\Persentation.csproj"
+              },
+              "F:\\Route\\Route C43\\API\\G01&G02\\E-CommerceG01&G02\\infrastructure\\Persestance\\Persistence.csproj": {
+                "projectPath": "F:\\Route\\Route C43\\API\\G01&G02\\E-CommerceG01&G02\\infrastructure\\Persestance\\Persistence.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.14, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.6.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\Route\\Route C43\\API\\G01&G02\\E-CommerceG01&G02\\Infrastructure\\Persentation\\Persentation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Route\\Route C43\\API\\G01&G02\\E-CommerceG01&G02\\Infrastructure\\Persentation\\Persentation.csproj",
+        "projectName": "Persentation",
+        "projectPath": "F:\\Route\\Route C43\\API\\G01&G02\\E-CommerceG01&G02\\Infrastructure\\Persentation\\Persentation.csproj",
+        "packagesPath": "C:\\Users\\Rana Hatem\\.nuget\\packages\\",
+        "outputPath": "F:\\Route\\Route C43\\API\\G01&G02\\E-CommerceG01&G02\\Infrastructure\\Persentation\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Rana Hatem\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "F:\\Route\\Route C43\\API\\G01&G02\\E-CommerceG01&G02\\Core\\Services.Abstractions\\Services.Abstractions.csproj": {
+                "projectPath": "F:\\Route\\Route C43\\API\\G01&G02\\E-CommerceG01&G02\\Core\\Services.Abstractions\\Services.Abstractions.csproj"
+              },
+              "F:\\Route\\Route C43\\API\\G01&G02\\E-CommerceG01&G02\\Shared\\Shared.csproj": {
+                "projectPath": "F:\\Route\\Route C43\\API\\G01&G02\\E-CommerceG01&G02\\Shared\\Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\Route\\Route C43\\API\\G01&G02\\E-CommerceG01&G02\\infrastructure\\Persestance\\Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Route\\Route C43\\API\\G01&G02\\E-CommerceG01&G02\\infrastructure\\Persestance\\Persistence.csproj",
+        "projectName": "Persistence",
+        "projectPath": "F:\\Route\\Route C43\\API\\G01&G02\\E-CommerceG01&G02\\infrastructure\\Persestance\\Persistence.csproj",
+        "packagesPath": "C:\\Users\\Rana Hatem\\.nuget\\packages\\",
+        "outputPath": "F:\\Route\\Route C43\\API\\G01&G02\\E-CommerceG01&G02\\infrastructure\\Persestance\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Rana Hatem\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "F:\\Route\\Route C43\\API\\G01&G02\\E-CommerceG01&G02\\Core\\Domain\\Domain.csproj": {
+                "projectPath": "F:\\Route\\Route C43\\API\\G01&G02\\E-CommerceG01&G02\\Core\\Domain\\Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.14, )"
+            },
+            "StackExchange.Redis": {
+              "target": "Package",
+              "version": "[2.8.31, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\Route\\Route C43\\API\\G01&G02\\E-CommerceG01&G02\\Shared\\Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Route\\Route C43\\API\\G01&G02\\E-CommerceG01&G02\\Shared\\Shared.csproj",
+        "projectName": "Shared",
+        "projectPath": "F:\\Route\\Route C43\\API\\G01&G02\\E-CommerceG01&G02\\Shared\\Shared.csproj",
+        "packagesPath": "C:\\Users\\Rana Hatem\\.nuget\\packages\\",
+        "outputPath": "F:\\Route\\Route C43\\API\\G01&G02\\E-CommerceG01&G02\\Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Rana Hatem\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

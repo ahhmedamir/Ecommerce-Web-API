@@ -1,0 +1,97 @@
+{
+  "Files": [
+    {
+      "Id": "F:\\Route\\Route C43\\API\\G01&G02\\E-CommerceG01&G02\\E-Commerce\\wwwroot\\Images\\products\\CheesyVegetableLasagna.png",
+      "PackagePath": "staticwebassets\\Images\\products\\CheesyVegetableLasagna.png"
+    },
+    {
+      "Id": "F:\\Route\\Route C43\\API\\G01&G02\\E-CommerceG01&G02\\E-Commerce\\wwwroot\\Images\\products\\ChickenMarsala.png",
+      "PackagePath": "staticwebassets\\Images\\products\\ChickenMarsala.png"
+    },
+    {
+      "Id": "F:\\Route\\Route C43\\API\\G01&G02\\E-CommerceG01&G02\\E-Commerce\\wwwroot\\Images\\products\\ChickenTeriyakiNoodles.png",
+      "PackagePath": "staticwebassets\\Images\\products\\ChickenTeriyakiNoodles.png"
+    },
+    {
+      "Id": "F:\\Route\\Route C43\\API\\G01&G02\\E-CommerceG01&G02\\E-Commerce\\wwwroot\\Images\\products\\ChickenTikkaMasala.jpg",
+      "PackagePath": "staticwebassets\\Images\\products\\ChickenTikkaMasala.jpg"
+    },
+    {
+      "Id": "F:\\Route\\Route C43\\API\\G01&G02\\E-CommerceG01&G02\\E-Commerce\\wwwroot\\Images\\products\\Congee.png",
+      "PackagePath": "staticwebassets\\Images\\products\\Congee.png"
+    },
+    {
+      "Id": "F:\\Route\\Route C43\\API\\G01&G02\\E-CommerceG01&G02\\E-Commerce\\wwwroot\\Images\\products\\CreamyGochujangTortellini.png",
+      "PackagePath": "staticwebassets\\Images\\products\\CreamyGochujangTortellini.png"
+    },
+    {
+      "Id": "F:\\Route\\Route C43\\API\\G01&G02\\E-CommerceG01&G02\\E-Commerce\\wwwroot\\Images\\products\\CrispyVegetablePakoras.png",
+      "PackagePath": "staticwebassets\\Images\\products\\CrispyVegetablePakoras.png"
+    },
+    {
+      "Id": "F:\\Route\\Route C43\\API\\G01&G02\\E-CommerceG01&G02\\E-Commerce\\wwwroot\\Images\\products\\HaluskiNoodles.png",
+      "PackagePath": "staticwebassets\\Images\\products\\HaluskiNoodles.png"
+    },
+    {
+      "Id": "F:\\Route\\Route C43\\API\\G01&G02\\E-CommerceG01&G02\\E-Commerce\\wwwroot\\Images\\products\\HeartyVegetableLasagna.png",
+      "PackagePath": "staticwebassets\\Images\\products\\HeartyVegetableLasagna.png"
+    },
+    {
+      "Id": "F:\\Route\\Route C43\\API\\G01&G02\\E-CommerceG01&G02\\E-Commerce\\wwwroot\\Images\\products\\ItalianChickenMarinade.png",
+      "PackagePath": "staticwebassets\\Images\\products\\ItalianChickenMarinade.png"
+    },
+    {
+      "Id": "F:\\Route\\Route C43\\API\\G01&G02\\E-CommerceG01&G02\\E-Commerce\\wwwroot\\Images\\products\\ItalianWeddingSoup.png",
+      "PackagePath": "staticwebassets\\Images\\products\\ItalianWeddingSoup.png"
+    },
+    {
+      "Id": "F:\\Route\\Route C43\\API\\G01&G02\\E-CommerceG01&G02\\E-Commerce\\wwwroot\\Images\\products\\Kulfi.png",
+      "PackagePath": "staticwebassets\\Images\\products\\Kulfi.png"
+    },
+    {
+      "Id": "F:\\Route\\Route C43\\API\\G01&G02\\E-CommerceG01&G02\\E-Commerce\\wwwroot\\Images\\products\\PastaSalad.png",
+      "PackagePath": "staticwebassets\\Images\\products\\PastaSalad.png"
+    },
+    {
+      "Id": "F:\\Route\\Route C43\\API\\G01&G02\\E-CommerceG01&G02\\E-Commerce\\wwwroot\\Images\\products\\PepperPasta.png",
+      "PackagePath": "staticwebassets\\Images\\products\\PepperPasta.png"
+    },
+    {
+      "Id": "F:\\Route\\Route C43\\API\\G01&G02\\E-CommerceG01&G02\\E-Commerce\\wwwroot\\Images\\products\\ShrimpEggFooYoung.png",
+      "PackagePath": "staticwebassets\\Images\\products\\ShrimpEggFooYoung.png"
+    },
+    {
+      "Id": "F:\\Route\\Route C43\\API\\G01&G02\\E-CommerceG01&G02\\E-Commerce\\wwwroot\\Images\\products\\TandooriChicken.png",
+      "PackagePath": "staticwebassets\\Images\\products\\TandooriChicken.png"
+    },
+    {
+      "Id": "F:\\Route\\Route C43\\API\\G01&G02\\E-CommerceG01&G02\\E-Commerce\\wwwroot\\Images\\products\\VegetarianKorma.png",
+      "PackagePath": "staticwebassets\\Images\\products\\VegetarianKorma.png"
+    },
+    {
+      "Id": "F:\\Route\\Route C43\\API\\G01&G02\\E-CommerceG01&G02\\E-Commerce\\wwwroot\\Images\\products\\VegetarianRefriedBeans.png",
+      "PackagePath": "staticwebassets\\Images\\products\\VegetarianRefriedBeans.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.E-Commerce.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.E-Commerce.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.E-Commerce.props",
+      "PackagePath": "build\\E-Commerce.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.E-Commerce.props",
+      "PackagePath": "buildMultiTargeting\\E-Commerce.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.E-Commerce.props",
+      "PackagePath": "buildTransitive\\E-Commerce.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
